@@ -10,7 +10,7 @@
 - Designing and automating secure cloud infrastructure across AWS and Azure
 - Building security automation and detection workflows using serverless services 
 - AWS event-driven architectures (Lambda, CloudWatch, DynamoDB, EventBridge, WAF)
-- Cloud resiliency, high availability, and disaster recovery strategies in Azure
+- Cloud resiliency, high availability, and disaster recovery strategies in AWS AND Azure
 
 ## Featured Projects
 
