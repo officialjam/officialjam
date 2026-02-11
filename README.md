@@ -44,11 +44,8 @@ Hands-on documentation project for backup and disaster recovery integration patt
 - Repo: [Veeam-to-Azure-Integration](https://github.com/officialjam/Veeam-to-Azure-Integration)
 - Focus: cloud backup architecture and recovery workflows
 
-## Current Focus
-
-- Expanding cloud security automation portfolio with production-style runbooks and architecture artifacts.
-- Improving consistency across project docs (architecture, validation, and operations).
 
 ## Connect
 
-- GitHub: [officialjam](https://github.com/officialjam)
+- Website: [Portfolio](https://warp-income-3bb.notion.site/Gbolahan-s-Portfolio-2dc7e0b02245808bbed7ed66c9232f26)
+- Linkedin [Linkedin](https://www.linkedin.com/in/gbolahan-awobajo-a29482234/)
