@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Jamil</h1>
+<h1 align="center">Hi, I'm Gbolahan</h1>
 
 <p align="center">
-  Cloud & DevSecOps engineer building practical security automation on AWS and Azure.
+  Cloud Infrastructure & DevOps Engineer | Cloud Security & DevSecOps focused on building secure, automated environments across AWS and Azure
 </p>
 
 ## What I Work On
