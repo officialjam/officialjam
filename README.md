@@ -6,10 +6,11 @@
 
 ## What I Work On
 
-- Cloud security automation and detection engineering
-- Infrastructure as Code with Terraform
-- AWS serverless security workflows (Lambda, CloudWatch, DynamoDB, WAF)
-- Azure resiliency and disaster recovery patterns
+- Designing and automating secure cloud infrastructure across AWS and Azure
+- Designing and automating secure cloud infrastructure across AWS and Azure
+- Building security automation and detection workflows using serverless services 
+- AWS event-driven architectures (Lambda, CloudWatch, DynamoDB, EventBridge, WAF)
+- Cloud resiliency, high availability, and disaster recovery strategies in Azure
 
 ## Featured Projects
 
