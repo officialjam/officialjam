@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gbolahan</h1>
 
 <p align="center">
-  Cloud Infrastructure & DevOps Engineer | Cloud Security & DevSecOps focused on building secure, automated environments across AWS and Azure
+  Cloud Engineer | Devops & DevSecOps | Security analyst focused on building secure, automated environments across AWS, Azure, and on premesis enviroment
 </p>
 
 ## What I Work On
